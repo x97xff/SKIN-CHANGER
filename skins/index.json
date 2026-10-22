@@ -51,6 +51,19 @@
           "url": "avatar34.bin"
         }
       ]
+    },
+    {
+      "id": "bugs-bunny",
+      "name": "Bugs Bunny",
+      "replaces": "Avatar 34",
+      "folder": "bugs-bunny",
+      "preview": "preview.png",
+      "files": [
+        {
+          "name": "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D",
+          "url": "avatar34.bin"
+        }
+      ]
     }
   ]
 }

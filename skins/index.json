@@ -38,6 +38,19 @@
           "url": "avatar34.bin"
         }
       ]
+    },
+    {
+      "id": "pink-panther",
+      "name": "Pink Panther",
+      "replaces": "Avatar 34",
+      "folder": "pink-panther",
+      "preview": "preview.png",
+      "files": [
+        {
+          "name": "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D",
+          "url": "avatar34.bin"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "skins": [
+    {
+      "id": "mohamed-vi-ray",
+      "name": "Mohamed vi - Ray",
+      "replaces": "Avatar 25 / 62 / 79 / 34",
+      "folder": "mohamed-vi-ray",
+      "preview": "preview.png",
+      "files": [
+        "optionalab_avatar_25.RSIGiAJedXHXjDw8i~2FWKLlmPVWI~3D",
+        "optionalab_avatar_62.bZ6YCEKVs0p9yGDjYiOyOJBQ0Mo~3D",
+        "optionalab_avatar_79.3wfHYRsVF9z6h96lDu4iyri8z98~3D",
+        {
+          "name": "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D",
+          "url": "avatar34.bin"
+        }
+      ]
+    },
+    {
+      "id": "zelika",
+      "name": "Zelika",
+      "replaces": "Avatar 34",
+      "folder": "zelika",
+      "preview": "preview.png",
+      "files": [
+        {
+          "name": "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D",
+          "url": "avatar34.bin"
+        }
+      ]
+    },
+    {
+      "id": "sonic",
+      "name": "Sonic",
+      "replaces": "Avatar 34",
+      "folder": "sonic",
+      "preview": "preview.png",
+      "files": [
+        "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D"
+      ]
+    }
+  ]
+}

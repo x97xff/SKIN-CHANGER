@@ -12,6 +12,16 @@
         "optionalab_avatar_62.bZ6YCEKVs0p9yGDjYiOyOJBQ0Mo~3D",
         "optionalab_avatar_79.3wfHYRsVF9z6h96lDu4iyri8z98~3D"
       ]
+    },
+    {
+      "id": "skin-2",
+      "name": "SKIN 2",
+      "replaces": "Avatar 34",
+      "folder": "skin-2",
+      "preview": "preview.png",
+      "files": [
+        "optionalab_avatar_34.vTrvfoxOmZUi7DogCUnXeYEuD~2B4~3D"
+      ]
     }
   ]
 }

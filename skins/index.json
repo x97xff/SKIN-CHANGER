@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skins": [
+    {
+      "id": "mohamed-vi-ray",
+      "name": "Mohamed vi - Ray",
+      "replaces": "Avatar 25 / 62 / 79",
+      "folder": "mohamed-vi-ray",
+      "preview": "preview.png",
+      "files": [
+        "optionalab_avatar_25.RSIGiAJedXHXjDw8i~2FWKLlmPVWI~3D",
+        "optionalab_avatar_62.bZ6YCEKVs0p9yGDjYiOyOJBQ0Mo~3D",
+        "optionalab_avatar_79.3wfHYRsVF9z6h96lDu4iyri8z98~3D"
+      ]
+    }
+  ]
+}
